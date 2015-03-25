@@ -275,7 +275,7 @@ header {
     background-attachment: scroll;
     background-image: url('/assets/img/nutrix-bg.jpg');
     background-position: center center;
-    background-repeat: none;
+    background-repeat: none;                           /*healthy-food.jpg*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
